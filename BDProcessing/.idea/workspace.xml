@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0854090e-9631-43fc-9299-9800aeba1838" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TestScalaNuevo" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1W51k8RINDNZ4jvpicKDNVxshCh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Practica_ConsumidorJSON">
+    <configuration name="Dia6_archivo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Dia6_archivo" />
+      <module name="BDProcessing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dia6_grafo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Dia6_grafo" />
+      <module name="BDProcessing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dia6_pagerank" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Dia6_pagerank" />
+      <module name="BDProcessing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dia6_triangulo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Dia6_triangulo" />
+      <module name="BDProcessing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practica_ConsumidorJSON" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Practica_ConsumidorJSON" />
+      <module name="BDProcessing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimerCodigo" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.example.PrimerCodigo" />
+      <module name="BDProcessing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="BDProcessing-build" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="BDProcessing-build" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.PrimerCodigo" />
+      <item itemvalue="Application.Dia6_archivo" />
+      <item itemvalue="Application.Dia6_pagerank" />
+      <item itemvalue="Application.Dia6_triangulo" />
+      <item itemvalue="Application.Dia6_grafo" />
+      <item itemvalue="Application.Practica_ConsumidorJSON" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Practica_ConsumidorJSON" />
+        <item itemvalue="Application.Dia6_grafo" />
+        <item itemvalue="Application.Dia6_triangulo" />
+        <item itemvalue="Application.Dia6_pagerank" />
+        <item itemvalue="Application.Dia6_archivo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="TestScalaNuevo" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="testscalanuevo [file:/home/keepcoding/IdeaProjects/TestScalaNuevo/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="TestScalaNuevo-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3159019370302" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="387320935" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2912332145" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0854090e-9631-43fc-9299-9800aeba1838" name="Default Changelist" comment="" />
+      <created>1578424781224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578424781224</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="201" y="66" width="820" height="684" key="#Project_Structure" timestamp="1579990869611">
+      <screen x="0" y="27" width="1920" height="907" />
+    </state>
+    <state x="107" y="59" width="820" height="684" key="#Project_Structure/0.27.1024.741@0.27.1024.741" timestamp="1578425037808" />
+    <state x="201" y="66" key="#Project_Structure/0.27.1920.907@0.27.1920.907" timestamp="1579990869611" />
+    <state x="459" y="209" width="524" height="491" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1580729201665">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="245" y="155" width="524" height="491" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.27.1024.741@0.27.1024.741" timestamp="1578504134300" />
+    <state x="457" y="184" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.27.1912.907@0.27.1912.907" timestamp="1580298604360" />
+    <state x="459" y="209" width="524" height="491" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1580729201665" />
+    <state x="459" y="184" width="524" height="491" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.27.1920.907@0.27.1920.907" timestamp="1580086976017" />
+    <state x="191" y="126" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.27.800.573@0.27.800.573" timestamp="1580595252828" />
+    <state x="191" y="151" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.27.800.873@0.27.800.873" timestamp="1580605248926" />
+    <state x="0" y="61" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579972218594">
+      <screen x="0" y="27" width="1920" height="907" />
+    </state>
+    <state x="0" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1024.741@0.27.1024.741" timestamp="1578502242233" />
+    <state x="0" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1579970975662" />
+    <state x="0" y="61" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.907@0.27.1920.907" timestamp="1579972218594" />
+    <state x="651" y="356" width="608" height="401" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579970536244">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="651" y="356" width="608" height="401" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1579970536244" />
+    <state x="493" y="335" width="487" height="313" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579970577200">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="263" y="244" width="487" height="313" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1024.741@0.27.1024.741" timestamp="1578502343350" />
+    <state x="493" y="335" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1920.1053@0.27.1920.1053" timestamp="1579970577200" />
+    <state x="283" y="188" width="424" height="491" key="FileChooserDialogImpl" timestamp="1581191029052">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="151" y="140" width="701" height="522" key="FileChooserDialogImpl/0.27.1024.741@0.27.1024.741" timestamp="1578580855688" />
+    <state x="283" y="188" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1581191029052" />
+    <state x="283" y="166" width="701" height="522" key="FileChooserDialogImpl/0.27.1920.907@0.27.1920.907" timestamp="1580079299190" />
+    <state x="99" y="115" width="701" height="330" key="FileChooserDialogImpl/0.27.800.573@0.27.800.573" timestamp="1580594772233" />
+    <state width="1872" height="561" key="GridCell.Tab.0.bottom" timestamp="1581192758646">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="976" height="156" key="GridCell.Tab.0.bottom/0.27.1024.741@0.27.1024.741" timestamp="1578581415580" />
+    <state width="1864" height="297" key="GridCell.Tab.0.bottom/0.27.1912.907@0.27.1912.907" timestamp="1580300466124" />
+    <state width="1872" height="561" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1581192758646" />
+    <state width="1872" height="373" key="GridCell.Tab.0.bottom/0.27.1920.907@0.27.1920.907" timestamp="1581181870916" />
+    <state width="1872" height="225" key="GridCell.Tab.0.bottom/0.27.1920.923@0.27.1920.923" timestamp="1578938811390" />
+    <state width="592" height="260" key="GridCell.Tab.0.bottom/0.27.640.453@0.27.640.453" timestamp="1580604873264" />
+    <state width="752" height="279" key="GridCell.Tab.0.bottom/0.27.800.873@0.27.800.873" timestamp="1580609548004" />
+    <state width="1872" height="561" key="GridCell.Tab.0.center" timestamp="1581192758642">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="976" height="156" key="GridCell.Tab.0.center/0.27.1024.741@0.27.1024.741" timestamp="1578581415578" />
+    <state width="1864" height="297" key="GridCell.Tab.0.center/0.27.1912.907@0.27.1912.907" timestamp="1580300466123" />
+    <state width="1872" height="561" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1581192758642" />
+    <state width="1872" height="373" key="GridCell.Tab.0.center/0.27.1920.907@0.27.1920.907" timestamp="1581181870915" />
+    <state width="1872" height="225" key="GridCell.Tab.0.center/0.27.1920.923@0.27.1920.923" timestamp="1578938811386" />
+    <state width="592" height="260" key="GridCell.Tab.0.center/0.27.640.453@0.27.640.453" timestamp="1580604873263" />
+    <state width="752" height="279" key="GridCell.Tab.0.center/0.27.800.873@0.27.800.873" timestamp="1580609548002" />
+    <state width="1872" height="561" key="GridCell.Tab.0.left" timestamp="1581192758641">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="976" height="156" key="GridCell.Tab.0.left/0.27.1024.741@0.27.1024.741" timestamp="1578581415577" />
+    <state width="1864" height="297" key="GridCell.Tab.0.left/0.27.1912.907@0.27.1912.907" timestamp="1580300466123" />
+    <state width="1872" height="561" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1581192758641" />
+    <state width="1872" height="373" key="GridCell.Tab.0.left/0.27.1920.907@0.27.1920.907" timestamp="1581181870915" />
+    <state width="1872" height="225" key="GridCell.Tab.0.left/0.27.1920.923@0.27.1920.923" timestamp="1578938811385" />
+    <state width="592" height="260" key="GridCell.Tab.0.left/0.27.640.453@0.27.640.453" timestamp="1580604873263" />
+    <state width="752" height="279" key="GridCell.Tab.0.left/0.27.800.873@0.27.800.873" timestamp="1580609548001" />
+    <state width="1872" height="561" key="GridCell.Tab.0.right" timestamp="1581192758644">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="976" height="156" key="GridCell.Tab.0.right/0.27.1024.741@0.27.1024.741" timestamp="1578581415579" />
+    <state width="1864" height="297" key="GridCell.Tab.0.right/0.27.1912.907@0.27.1912.907" timestamp="1580300466124" />
+    <state width="1872" height="561" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1581192758644" />
+    <state width="1872" height="373" key="GridCell.Tab.0.right/0.27.1920.907@0.27.1920.907" timestamp="1581181870916" />
+    <state width="1872" height="225" key="GridCell.Tab.0.right/0.27.1920.923@0.27.1920.923" timestamp="1578938811388" />
+    <state width="592" height="260" key="GridCell.Tab.0.right/0.27.640.453@0.27.640.453" timestamp="1580604873264" />
+    <state width="752" height="279" key="GridCell.Tab.0.right/0.27.800.873@0.27.800.873" timestamp="1580609548003" />
+    <state width="1872" height="289" key="GridCell.Tab.1.bottom" timestamp="1579972892683">
+      <screen x="0" y="27" width="1920" height="907" />
+    </state>
+    <state width="1872" height="289" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1579972768236" />
+    <state width="1872" height="289" key="GridCell.Tab.1.bottom/0.27.1920.907@0.27.1920.907" timestamp="1579972892683" />
+    <state width="1872" height="289" key="GridCell.Tab.1.center" timestamp="1579972892681">
+      <screen x="0" y="27" width="1920" height="907" />
+    </state>
+    <state width="1872" height="289" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1579972768235" />
+    <state width="1872" height="289" key="GridCell.Tab.1.center/0.27.1920.907@0.27.1920.907" timestamp="1579972892681" />
+    <state width="1872" height="289" key="GridCell.Tab.1.left" timestamp="1579972892679">
+      <screen x="0" y="27" width="1920" height="907" />
+    </state>
+    <state width="1872" height="289" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1579972768235" />
+    <state width="1872" height="289" key="GridCell.Tab.1.left/0.27.1920.907@0.27.1920.907" timestamp="1579972892679" />
+    <state width="1872" height="289" key="GridCell.Tab.1.right" timestamp="1579972892682">
+      <screen x="0" y="27" width="1920" height="907" />
+    </state>
+    <state width="1872" height="289" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1579972768236" />
+    <state width="1872" height="289" key="GridCell.Tab.1.right/0.27.1920.907@0.27.1920.907" timestamp="1579972892682" />
+    <state x="404" y="55" width="1024" height="852" key="SettingsEditor" timestamp="1581192545967">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="0" y="27" width="1014" height="741" key="SettingsEditor/0.27.1024.741@0.27.1024.741" timestamp="1578580859130" />
+    <state x="404" y="55" width="1024" height="852" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1581192545967" />
+    <state x="404" y="51" width="1024" height="852" key="SettingsEditor/0.27.1920.907@0.27.1920.907" timestamp="1580079349872" />
+    <state x="70" y="42" width="730" height="549" key="SettingsEditor/0.27.800.573@0.27.800.573" timestamp="1580594812334" />
+    <state x="612" y="129" width="696" height="849" key="find.popup" timestamp="1579970415106">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="612" y="129" width="696" height="849" key="find.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1579970415106" />
+    <state x="282" y="279" width="1345" height="556" key="new project wizard" timestamp="1581176407265">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="282" y="279" width="1345" height="556" key="new project wizard/0.27.1920.1053@0.27.1920.1053" timestamp="1581176407265" />
+    <state x="237" y="310" width="540" height="181" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1578581306387">
+      <screen x="0" y="27" width="1024" height="741" />
+    </state>
+    <state x="237" y="310" width="540" height="181" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.27.1024.741@0.27.1024.741" timestamp="1578581306387" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TestScalaNuevo$PrimerCodigo.ic" NAME="PrimerCodigo Coverage Results" MODIFIED="1578502099635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.*</FILTER>
+    </SUITE>
+  </component>
+</project>
